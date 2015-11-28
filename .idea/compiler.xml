@@ -25,6 +25,9 @@
         <module name="DesignPatterns" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="CodeSamples" target="1.8" />
+      <module name="DesignPatterns" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
-
